@@ -20,7 +20,7 @@ export class CarritoService {
     xml += `  <Factura>\n`;
     xml += `    <Encabezado>\n`;
     xml += `      <Receptor>\n`;
-    xml += `        <Nombre>Angel Aguirre 21300672</Nombre>\n`;
+    xml += `        <Nombre>nombre falso </Nombre>\n`;
     xml += `      </Receptor>\n`;
     xml += `      <Fecha>2021-10-12</Fecha>\n`;
     xml += `      <NumFactura>AUMA0606178G6</NumFactura>\n`;
